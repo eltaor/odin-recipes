@@ -1,0 +1,49 @@
+#title {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    color: red;
+    background-color: white;
+    text-decoration: underline;
+}
+
+.subtitle {
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: black;
+    text-decoration:wavy;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.gif {
+    height: auto;
+    width: 460px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    margin-top: 50px;
+}
+
+.list {
+    text-align: center;
+    margin-top:20px;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+
+    
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: red;
+
+
+}
